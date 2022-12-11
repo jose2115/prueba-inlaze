@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+dist/
+*.xlsx
+.env
+logs/
+logs/*.log
+src/connection/config/config.json
